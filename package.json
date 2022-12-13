@@ -1,0 +1,15 @@
+{
+  "name": "register-user",
+  "version": "1.0.0",
+  "description": "simple register process testingt",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe",
+    "test-live": "testcafe --live"
+  },
+  "author": "Zbigniew Bernacki",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^2.1.0"
+  }
+}
